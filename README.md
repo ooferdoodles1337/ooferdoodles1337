@@ -1,22 +1,32 @@
-# Hi, I'm Pantai. I write code I guess.
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-## About Me
-- 🏫 I'm a `freshman` at [KAIST](https://www.kaist.ac.kr/en/)
+# Hi there👋, I'm Pantai.
+> *"insert an inspirational quote so people think I'm deep"*  
+
+me fr ---> <img src="https://media.tenor.com/3X2mrP5sjv8AAAAi/bocchi-the-rock-bocchi.gif" width="100">
 
 
-<!--About Me-->
+## 🚀 About Me  
+🌏 **From**: Sriracha, Thailand 🇹🇭 (yes, like the sauce)  
+🏫 **Studying at**: [KAIST](https://www.kaist.ac.kr/en/) 🇰🇷  
+💻 **Major**: CS (like every other lost soul)  
+🙃 **Professional**: Introvert & spaghetti spiller  
 
-<!--
-**ooferdoodles1337/ooferdoodles1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Currently Working On
+<p align="center">
+  <img src="https://media1.tenor.com/m/p1SESJZYkscAAAAd/bocchi-the-rock-bocchi.gif" width="280">
+</p>
 
-Here are some ideas to get you started:
+- 🏋️‍♂️ Gitting gud @ DSA & C
+- 💯 Surviving KAIST
+- 🍜 curing my buldak addiction (wallahi im cooked)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📫 How to Reach Me  
+- 📧 Email: `pantaisuyasri@gmail.com`  
+- 📷 Instagram: [@ooferdoodles1337](https://www.instagram.com/pt_suyasri)
+- 🎮 Discord: `ooferdoodles`
+
+  
+
