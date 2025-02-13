@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Pantai Suyasri
+## Hi, I write code I guess
 
 
 <!--
