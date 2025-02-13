@@ -21,12 +21,12 @@ me fr ---> <img src="https://media.tenor.com/3X2mrP5sjv8AAAAi/bocchi-the-rock-bo
 - 💯 Surviving KAIST
 - 🍜 curing my buldak addiction (wallahi im cooked)
 
-
-
 ## 📫 How to Reach Me  
 - 📧 Email: `pantaisuyasri@gmail.com`  
 - 📷 Instagram: [@ooferdoodles1337](https://www.instagram.com/pt_suyasri)
 - 🎮 Discord: `ooferdoodles`
 
+## 📄 Resume
+[Get it here](https://files.catbox.moe/s8trnv.pdf)
   
 
