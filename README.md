@@ -1,10 +1,8 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 # Hi there👋, I'm Pantai.
-> *"insert an inspirational quote so people think I'm deep"*  
 
 me fr ---> <img src="https://media.tenor.com/3X2mrP5sjv8AAAAi/bocchi-the-rock-bocchi.gif" width="100">
-
 
 ## 🚀 About Me  
 🌏 **From**: Sriracha, Thailand 🇹🇭 (yes, like the sauce)  
