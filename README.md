@@ -1,5 +1,10 @@
-## Hi, I write code I guess
+# Hi, I'm Pantai. I write code I guess.
 
+## About Me
+- 🏫 I'm a `freshman` at [KAIST](https://www.kaist.ac.kr/en/)
+
+
+<!--About Me-->
 
 <!--
 **ooferdoodles1337/ooferdoodles1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
