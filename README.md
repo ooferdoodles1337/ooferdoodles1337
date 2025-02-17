@@ -7,7 +7,7 @@ me fr ---> <img src="https://media.tenor.com/3X2mrP5sjv8AAAAi/bocchi-the-rock-bo
 ## 🚀 About Me  
 🌏 **From**: Sriracha, Thailand 🇹🇭 (yes, like the sauce)  
 🏫 **Studying at**: [KAIST](https://www.kaist.ac.kr/en/) 🇰🇷  
-💻 **Major**: CS (like every other lost soul)  
+💻 **Major**: CS (destined for mcdonalds)  
 🙃 **Professional**: Introvert & spaghetti spiller  
 
 ## 🔥 Currently Working On
