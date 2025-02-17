@@ -25,6 +25,6 @@ me fr ---> <img src="https://media.tenor.com/3X2mrP5sjv8AAAAi/bocchi-the-rock-bo
 - 🎮 Discord: `ooferdoodles`
 
 ## 📄 Resume
-[Get it here](https://files.catbox.moe/s8trnv.pdf)
+[Get it here](https://files.catbox.moe/inek11.pdf)
   
 
