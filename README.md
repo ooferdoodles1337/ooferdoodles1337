@@ -15,7 +15,7 @@ me fr ---> <img src="https://media.tenor.com/3X2mrP5sjv8AAAAi/bocchi-the-rock-bo
   <img src="https://media1.tenor.com/m/p1SESJZYkscAAAAd/bocchi-the-rock-bocchi.gif" width="280">
 </p>
 
-- 🏋️‍♂️ Gitting gud @ DSA & C
+- 🏋️‍♂️ Figuing out what courses i wanna take lmao
 - 💯 Surviving KAIST
 - 🍜 curing my buldak addiction (wallahi im cooked)
 
