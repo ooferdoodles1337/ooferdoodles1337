@@ -23,6 +23,6 @@ me fr ---> <img src="https://media.tenor.com/3X2mrP5sjv8AAAAi/bocchi-the-rock-bo
 - 📧 Email: `pantaisuyasri@gmail.com`  
 
 ## 📄 Resume
-[Get it here](https://files.catbox.moe/inek11.pdf)
+[Get it here](https://files.catbox.moe/2nmd45.pdf)
   
 
