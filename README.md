@@ -15,7 +15,7 @@ me fr ---> <img src="https://media.tenor.com/3X2mrP5sjv8AAAAi/bocchi-the-rock-bo
   <img src="https://media1.tenor.com/m/p1SESJZYkscAAAAd/bocchi-the-rock-bocchi.gif" width="280">
 </p>
 
-- bruh im just cooked at thos point
+- bruh im just cooked at this point
 
 ## How to Reach Me  
 - Email: `pantaisuyasri@gmail.com`  
